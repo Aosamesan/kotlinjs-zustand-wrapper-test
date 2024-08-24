@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="testReactApp-js">
+    <output-path>$PROJECT_DIR$/testReactApp/build/libs</output-path>
+    <root id="archive" name="testReactApp-js.jar">
+      <element id="module-output" name="kotlin-zustand-wrapper.testReactApp.jsMain" />
+    </root>
+  </artifact>
+</component>

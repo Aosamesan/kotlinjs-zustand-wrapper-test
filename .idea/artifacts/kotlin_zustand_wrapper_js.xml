@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kotlin-zustand-wrapper-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="kotlin-zustand-wrapper-js.jar">
+      <element id="module-output" name="kotlin-zustand-wrapper.jsMain" />
+    </root>
+  </artifact>
+</component>
